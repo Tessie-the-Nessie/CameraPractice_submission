@@ -14,6 +14,7 @@
 		BDBC19FF2BF18823006991F5 /* CameraPractice_submissionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDBC19FE2BF18823006991F5 /* CameraPractice_submissionTests.swift */; };
 		BDBC1A092BF18823006991F5 /* CameraPractice_submissionUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDBC1A082BF18823006991F5 /* CameraPractice_submissionUITests.swift */; };
 		BDBC1A0B2BF18823006991F5 /* CameraPractice_submissionUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDBC1A0A2BF18823006991F5 /* CameraPractice_submissionUITestsLaunchTests.swift */; };
+		BDBC1A182BF18872006991F5 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDBC1A172BF18872006991F5 /* ImagePicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		BDBC1A042BF18823006991F5 /* CameraPractice_submissionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CameraPractice_submissionUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDBC1A082BF18823006991F5 /* CameraPractice_submissionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraPractice_submissionUITests.swift; sourceTree = "<group>"; };
 		BDBC1A0A2BF18823006991F5 /* CameraPractice_submissionUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraPractice_submissionUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BDBC1A172BF18872006991F5 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 				BDBC19ED2BF18821006991F5 /* CameraPractice_submissionApp.swift */,
 				BDBC19EF2BF18821006991F5 /* ContentView.swift */,
 				BDBC19F12BF18822006991F5 /* Assets.xcassets */,
+				BDBC1A172BF18872006991F5 /* ImagePicker.swift */,
 				BDBC19F32BF18822006991F5 /* Preview Content */,
 			);
 			path = CameraPractice_submission;
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BDBC1A182BF18872006991F5 /* ImagePicker.swift in Sources */,
 				BDBC19F02BF18821006991F5 /* ContentView.swift in Sources */,
 				BDBC19EE2BF18821006991F5 /* CameraPractice_submissionApp.swift in Sources */,
 			);
